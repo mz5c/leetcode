@@ -1,6 +1,6 @@
 # leetcode
 
-###solutions
+### solutions
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
