@@ -22,3 +22,17 @@ var lengthOfLongestSubstring = function(s) {
     }
     return max_len;
 };
+//solution 2
+var lengthOfLongestSubstring_2 = function(s) {
+    var cur_str = '', max_len = 0;
+    for (let i = 0; i < s.length; i++) {
+        let last_pos = cur_str.indexOf(s[i]);
+        if (last_pos === -1) {
+            cur_str += s[i];
+        } else {
+            max_len = cur_str.length > max_len ? cur_str.length : max_len;
+            cur_str = cur_str.substr(last_pos + 1) + s[i];
+        }
+    }
+    return cur_str.length > max_len ? cur_str.length : max_len;
+};
