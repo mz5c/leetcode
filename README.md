@@ -12,4 +12,5 @@
 |12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/) | [JavaScript](./solutions/javascript/IntegertoRoman/IntegertoRoman.js)|Medium|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/) | [JavaScript](./solutions/javascript/RomantoInteger/RomantoInteger.js)|Easy|
 |96|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/description/) | [JavaScript](./solutions/javascript/UniqueBinarySearchTrees/UniqueBinarySearchTrees.js)|Medium|
+|164|[Maximum Gap](https://leetcode.com/problems/maximum-gap/description/) | [JavaScript](./solutions/javascript/MaximumGap/MaximumGap.js)|Hard|
 |174|[Dungeon Game](https://leetcode.com/problems/dungeon-game/description/) | [JavaScript](./solutions/javascript/DungeonGame/DungeonGame.js)|Hard|
