@@ -11,4 +11,5 @@
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) | [JavaScript](./solutions/javascript/ReverseInteger/ReverseInteger.js)|Easy|
 |12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/) | [JavaScript](./solutions/javascript/IntegertoRoman/IntegertoRoman.js)|Medium|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/) | [JavaScript](./solutions/javascript/RomantoInteger/RomantoInteger.js)|Easy|
+|96|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/description/) | [JavaScript](./solutions/javascript/UniqueBinarySearchTrees/UniqueBinarySearchTrees.js)|Medium|
 |174|[Dungeon Game](https://leetcode.com/problems/dungeon-game/description/) | [JavaScript](./solutions/javascript/DungeonGame/DungeonGame.js)|Hard|
