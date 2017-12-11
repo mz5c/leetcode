@@ -18,6 +18,7 @@
 |42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) | [JavaScript](./solutions/javascript/TrappingRainWater/TrappingRainWater.js)|Hard|
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/description/) | [JavaScript](./solutions/javascript/Powxn/Powxn.js)|Medium|
 |57|[Insert Interval](https://leetcode.com/problems/insert-interval/description/) | [JavaScript](./solutions/javascript/InsertInterval/InsertInterval.js)|Hard|
+|62|[Unique Paths](https://leetcode.com/problems/unique-paths/description/) | [JavaScript](./solutions/javascript/UniquePaths/UniquePaths.js)|Medium|
 |77|[Combinations](https://leetcode.com/problems/combinations/description/) | [JavaScript](./solutions/javascript/Combinations/Combinations.js)|Medium|
 |78|[Subsets](https://leetcode.com/problems/subsets/description/) | [JavaScript](./solutions/javascript/Subsets/Subsets.js)|Medium|
 |86|[Partition List](https://leetcode.com/problems/partition-list/description/) | [JavaScript](./solutions/javascript/PartitionList/PartitionList.js)|Medium|
