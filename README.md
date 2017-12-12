@@ -14,6 +14,7 @@
 |15|[3Sum](https://leetcode.com/problems/3sum/description/) | [JavaScript](./solutions/javascript/3Sum/3Sum.js)|Medium|
 |16|[3Sum Closest](https://leetcode.com/problems/3sum-closest/description/) | [JavaScript](./solutions/javascript/3SumClosest/3SumClosest.js)|Medium|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | [JavaScript](./solutions/javascript/ValidParentheses/ValidParentheses.js)|Easy|
+|22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) | [JavaScript](./solutions/javascript/GenerateParentheses/GenerateParentheses.js)|Medium|
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) | [JavaScript](./solutions/javascript/ValidSudoku/ValidSudoku.js)|Medium|
 |38|[Count and Say](https://leetcode.com/problems/count-and-say/description/) | [JavaScript](./solutions/javascript/CountandSay/CountandSay.js)|Easy|
 |42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) | [JavaScript](./solutions/javascript/TrappingRainWater/TrappingRainWater.js)|Hard|
