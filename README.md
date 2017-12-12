@@ -20,6 +20,7 @@
 |57|[Insert Interval](https://leetcode.com/problems/insert-interval/description/) | [JavaScript](./solutions/javascript/InsertInterval/InsertInterval.js)|Hard|
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/description/) | [JavaScript](./solutions/javascript/UniquePaths/UniquePaths.js)|Medium|
 |63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/description/) | [JavaScript](./solutions/javascript/UniquePathsII/UniquePathsII.js)|Medium|
+|66|[Plus One](https://leetcode.com/problems/plus-one/description/) | [JavaScript](./solutions/javascript/PlusOne/PlusOne.js)|Easy|
 |77|[Combinations](https://leetcode.com/problems/combinations/description/) | [JavaScript](./solutions/javascript/Combinations/Combinations.js)|Medium|
 |78|[Subsets](https://leetcode.com/problems/subsets/description/) | [JavaScript](./solutions/javascript/Subsets/Subsets.js)|Medium|
 |86|[Partition List](https://leetcode.com/problems/partition-list/description/) | [JavaScript](./solutions/javascript/PartitionList/PartitionList.js)|Medium|
