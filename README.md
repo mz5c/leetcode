@@ -22,6 +22,7 @@
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/description/) | [JavaScript](./solutions/javascript/Powxn/Powxn.js)|Medium|
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/) | [JavaScript](./solutions/javascript/SpiralMatrix/SpiralMatrix.js)|Medium|
 |57|[Insert Interval](https://leetcode.com/problems/insert-interval/description/) | [JavaScript](./solutions/javascript/InsertInterval/InsertInterval.js)|Hard|
+|59|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/description/) | [JavaScript](./solutions/javascript/SpiralMatrixII/SpiralMatrixII.js)|Medium|
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/description/) | [JavaScript](./solutions/javascript/UniquePaths/UniquePaths.js)|Medium|
 |63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/description/) | [JavaScript](./solutions/javascript/UniquePathsII/UniquePathsII.js)|Medium|
 |66|[Plus One](https://leetcode.com/problems/plus-one/description/) | [JavaScript](./solutions/javascript/PlusOne/PlusOne.js)|Easy|
