@@ -11,6 +11,7 @@
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) | [JavaScript](./solutions/javascript/LongestPalindromicSubstring/LongestPalindromicSubstring.js)|Medium|
 |6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/description/) | [JavaScript](./solutions/javascript/ZigZagConversion/ZigZagConversion.js)|Medium|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) | [JavaScript](./solutions/javascript/ReverseInteger/ReverseInteger.js)|Easy|
+|8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/) | [JavaScript](./solutions/javascript/StringtoInteger_atoi/StringtoInteger_atoi.js)|Medium|
 |12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/) | [JavaScript](./solutions/javascript/IntegertoRoman/IntegertoRoman.js)|Medium|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/) | [JavaScript](./solutions/javascript/RomantoInteger/RomantoInteger.js)|Easy|
 |15|[3Sum](https://leetcode.com/problems/3sum/description/) | [JavaScript](./solutions/javascript/3Sum/3Sum.js)|Medium|
