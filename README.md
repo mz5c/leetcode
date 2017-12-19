@@ -16,6 +16,7 @@
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) | [JavaScript](./solutions/javascript/ContainerWithMostWater/ContainerWithMostWater.js)|Medium|
 |12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/) | [JavaScript](./solutions/javascript/IntegertoRoman/IntegertoRoman.js)|Medium|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/) | [JavaScript](./solutions/javascript/RomantoInteger/RomantoInteger.js)|Easy|
+|14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) | [JavaScript](./solutions/javascript/LongestCommonPrefix/LongestCommonPrefix.js)|Easy|
 |15|[3Sum](https://leetcode.com/problems/3sum/description/) | [JavaScript](./solutions/javascript/3Sum/3Sum.js)|Medium|
 |16|[3Sum Closest](https://leetcode.com/problems/3sum-closest/description/) | [JavaScript](./solutions/javascript/3SumClosest/3SumClosest.js)|Medium|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | [JavaScript](./solutions/javascript/ValidParentheses/ValidParentheses.js)|Easy|
