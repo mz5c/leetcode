@@ -28,6 +28,7 @@
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) | [JavaScript](./solutions/javascript/ValidSudoku/ValidSudoku.js)|Medium|
 |38|[Count and Say](https://leetcode.com/problems/count-and-say/description/) | [JavaScript](./solutions/javascript/CountandSay/CountandSay.js)|Easy|
 |42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) | [JavaScript](./solutions/javascript/TrappingRainWater/TrappingRainWater.js)|Hard|
+|45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/description/) | [JavaScript](./solutions/javascript/JumpGameII/JumpGameII.js)|Hard|
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/description/) | [JavaScript](./solutions/javascript/Powxn/Powxn.js)|Medium|
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/) | [JavaScript](./solutions/javascript/SpiralMatrix/SpiralMatrix.js)|Medium|
 |55|[Jump Game](https://leetcode.com/problems/jump-game/description/) | [JavaScript](./solutions/javascript/JumpGame/JumpGame.js)|Medium|
