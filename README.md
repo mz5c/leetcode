@@ -30,6 +30,7 @@
 |42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) | [JavaScript](./solutions/javascript/TrappingRainWater/TrappingRainWater.js)|Hard|
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/description/) | [JavaScript](./solutions/javascript/Powxn/Powxn.js)|Medium|
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/) | [JavaScript](./solutions/javascript/SpiralMatrix/SpiralMatrix.js)|Medium|
+|55|[Jump Game](https://leetcode.com/problems/jump-game/description/) | [JavaScript](./solutions/javascript/JumpGame/JumpGame.js)|Medium|
 |57|[Insert Interval](https://leetcode.com/problems/insert-interval/description/) | [JavaScript](./solutions/javascript/InsertInterval/InsertInterval.js)|Hard|
 |59|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/description/) | [JavaScript](./solutions/javascript/SpiralMatrixII/SpiralMatrixII.js)|Medium|
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/description/) | [JavaScript](./solutions/javascript/UniquePaths/UniquePaths.js)|Medium|
