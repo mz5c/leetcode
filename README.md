@@ -25,6 +25,7 @@
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | [JavaScript](./solutions/javascript/ValidParentheses/ValidParentheses.js)|Easy|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | [JavaScript](./solutions/javascript/MergeTwoSortedLists/MergeTwoSortedLists.js)|Easy|
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) | [JavaScript](./solutions/javascript/GenerateParentheses/GenerateParentheses.js)|Medium|
+|23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) | [JavaScript](./solutions/javascript/MergekSortedLists/MergekSortedLists.js)|Hard|
 |32|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/description/) | [JavaScript](./solutions/javascript/LongestValidParentheses/LongestValidParentheses.js)|Hard|
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) | [JavaScript](./solutions/javascript/ValidSudoku/ValidSudoku.js)|Medium|
 |38|[Count and Say](https://leetcode.com/problems/count-and-say/description/) | [JavaScript](./solutions/javascript/CountandSay/CountandSay.js)|Easy|
