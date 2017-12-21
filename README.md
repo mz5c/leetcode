@@ -23,6 +23,7 @@
 |18|[4Sum](https://leetcode.com/problems/4sum/description/) | [JavaScript](./solutions/javascript/4Sum/4Sum.js)|Medium|
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) | [JavaScript](./solutions/javascript/RemoveNthNodeFromEndofList/RemoveNthNodeFromEndofList.js)|Medium|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | [JavaScript](./solutions/javascript/ValidParentheses/ValidParentheses.js)|Easy|
+|21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | [JavaScript](./solutions/javascript/MergeTwoSortedLists/MergeTwoSortedLists.js)|Easy|
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) | [JavaScript](./solutions/javascript/GenerateParentheses/GenerateParentheses.js)|Medium|
 |32|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/description/) | [JavaScript](./solutions/javascript/LongestValidParentheses/LongestValidParentheses.js)|Hard|
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) | [JavaScript](./solutions/javascript/ValidSudoku/ValidSudoku.js)|Medium|
