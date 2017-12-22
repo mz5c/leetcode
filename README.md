@@ -28,6 +28,7 @@
 |23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) | [JavaScript](./solutions/javascript/MergekSortedLists/MergekSortedLists.js)|Hard|
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/) | [JavaScript](./solutions/javascript/SwapNodesinPairs/SwapNodesinPairs.js)|Medium|
 |25|[Reverse Nodes in k-Group](https://leetcode.com/reverse-nodes-in-k-group/description/) | [JavaScript](./solutions/javascript/ReverseNodesink-Group/ReverseNodesink-Group.js)|Hard|
+|26|[Remove Duplicates from Sorted Array](https://leetcode.com/remove-duplicates-from-sorted-array/description/) | [JavaScript](./solutions/javascript/RemoveDuplicatesfromSortedArray/RemoveDuplicatesfromSortedArray.js)|Easy|
 |32|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/description/) | [JavaScript](./solutions/javascript/LongestValidParentheses/LongestValidParentheses.js)|Hard|
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) | [JavaScript](./solutions/javascript/ValidSudoku/ValidSudoku.js)|Medium|
 |38|[Count and Say](https://leetcode.com/problems/count-and-say/description/) | [JavaScript](./solutions/javascript/CountandSay/CountandSay.js)|Easy|
