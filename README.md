@@ -64,3 +64,4 @@
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/description/) | [JavaScript](./solutions/javascript/NumberofIslands/NumberofIslands.js)|Medium|
 |383|[Ransom Note](https://leetcode.com/problems/ransom-note/description/) | [JavaScript](./solutions/javascript/RansomNote/RansomNote.js)|Easy|
 |401|[Binary Watch](https://leetcode.com/problems/binary-watch/description/) | [JavaScript](./solutions/javascript/BinaryWatch/BinaryWatch.js)|Easy|
+|437|[Path Sum III](https://leetcode.com/problems/path-sum-iii/description/) | [JavaScript](./solutions/javascript/PathSumIII/PathSumIII.js)|Easy|
