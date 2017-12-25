@@ -30,6 +30,7 @@
 |25|[Reverse Nodes in k-Group](https://leetcode.com/reverse-nodes-in-k-group/description/) | [JavaScript](./solutions/javascript/ReverseNodesink-Group/ReverseNodesink-Group.js)|Hard|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/remove-duplicates-from-sorted-array/description/) | [JavaScript](./solutions/javascript/RemoveDuplicatesfromSortedArray/RemoveDuplicatesfromSortedArray.js)|Easy|
 |27|[Remove Element](https://leetcode.com/remove-element/description/) | [JavaScript](./solutions/javascript/RemoveElement/RemoveElement.js)|Easy|
+|28|[Implement strStr()](https://leetcode.com/implement-strstr/description/) | [JavaScript](./solutions/javascript/ImplementstrStr/ImplementstrStr.js)|Easy|
 |32|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/description/) | [JavaScript](./solutions/javascript/LongestValidParentheses/LongestValidParentheses.js)|Hard|
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) | [JavaScript](./solutions/javascript/ValidSudoku/ValidSudoku.js)|Medium|
 |38|[Count and Say](https://leetcode.com/problems/count-and-say/description/) | [JavaScript](./solutions/javascript/CountandSay/CountandSay.js)|Easy|
