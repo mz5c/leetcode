@@ -35,6 +35,7 @@
 |30|[Substring with Concatenation of All Words](https://leetcode.com/substring-with-concatenation-of-all-words/description/) | [JavaScript](./solutions/cpp/SubstringwithConcatenationofAllWords/SubstringwithConcatenationofAllWords.js)|Hard|
 |31|[Next Permutation](https://leetcode.com/next-permutation/description/) | [JavaScript](./solutions/cpp/NextPermutation/NextPermutation.js)|Medium|
 |32|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/description/) | [JavaScript](./solutions/javascript/LongestValidParentheses/LongestValidParentheses.js)|Hard|
+|33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | [JavaScript](./solutions/javascript/SearchinRotatedSortedArray/SearchinRotatedSortedArray.js)|Medium|
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) | [JavaScript](./solutions/javascript/ValidSudoku/ValidSudoku.js)|Medium|
 |38|[Count and Say](https://leetcode.com/problems/count-and-say/description/) | [JavaScript](./solutions/javascript/CountandSay/CountandSay.js)|Easy|
 |42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) | [JavaScript](./solutions/javascript/TrappingRainWater/TrappingRainWater.js)|Hard|
