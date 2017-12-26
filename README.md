@@ -33,6 +33,7 @@
 |28|[Implement strStr()](https://leetcode.com/implement-strstr/description/) | [JavaScript](./solutions/javascript/ImplementstrStr/ImplementstrStr.js)|Easy|
 |29|[Divide Two Integers](https://leetcode.com/divide-two-integers/description/) | [Cpp](./solutions/cpp/DivideTwoIntegers/DivideTwoIntegers.cpp)|Medium|
 |30|[Substring with Concatenation of All Words](https://leetcode.com/substring-with-concatenation-of-all-words/description/) | [JavaScript](./solutions/cpp/SubstringwithConcatenationofAllWords/SubstringwithConcatenationofAllWords.js)|Hard|
+|31|[Next Permutation](https://leetcode.com/next-permutation/description/) | [JavaScript](./solutions/cpp/NextPermutation/NextPermutation.js)|Medium|
 |32|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/description/) | [JavaScript](./solutions/javascript/LongestValidParentheses/LongestValidParentheses.js)|Hard|
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) | [JavaScript](./solutions/javascript/ValidSudoku/ValidSudoku.js)|Medium|
 |38|[Count and Say](https://leetcode.com/problems/count-and-say/description/) | [JavaScript](./solutions/javascript/CountandSay/CountandSay.js)|Easy|
