@@ -69,6 +69,7 @@
 |191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/) | [JavaScript](./solutions/javascript/Numberof1Bits/Numberof1Bits.js)|Easy|
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/description/) | [JavaScript](./solutions/javascript/NumberofIslands/NumberofIslands.js)|Medium|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) | [JavaScript](./solutions/javascript/ValidAnagram/ValidAnagram.js)|Easy|
+|375|[Guess Number Higher or Lower II](https://leetcode.com/problems/guess-number-higher-or-lower-ii/description/) | [JavaScript](./solutions/javascript/GuessNumberHigherorLowerII/GuessNumberHigherorLowerII.js)|Medium|
 |383|[Ransom Note](https://leetcode.com/problems/ransom-note/description/) | [JavaScript](./solutions/javascript/RansomNote/RansomNote.js)|Easy|
 |401|[Binary Watch](https://leetcode.com/problems/binary-watch/description/) | [JavaScript](./solutions/javascript/BinaryWatch/BinaryWatch.js)|Easy|
 |437|[Path Sum III](https://leetcode.com/problems/path-sum-iii/description/) | [JavaScript](./solutions/javascript/PathSumIII/PathSumIII.js)|Easy|
