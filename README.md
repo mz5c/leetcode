@@ -47,6 +47,7 @@
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) | [JavaScript](./solutions/javascript/GroupAnagrams/GroupAnagrams.js)|Medium|
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/description/) | [JavaScript](./solutions/javascript/Powxn/Powxn.js)|Medium|
 |51|[N-Queens](https://leetcode.com/problems/n-queens/description/) | [JavaScript](./solutions/javascript/N-Queens/N-Queens.js)|Hard|
+|52|[N-Queens II](https://leetcode.com/problems/n-queens-ii/description/) | [JavaScript](./solutions/javascript/N-QueensII/N-QueensII.js)|Hard|
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/) | [JavaScript](./solutions/javascript/SpiralMatrix/SpiralMatrix.js)|Medium|
 |55|[Jump Game](https://leetcode.com/problems/jump-game/description/) | [JavaScript](./solutions/javascript/JumpGame/JumpGame.js)|Medium|
 |57|[Insert Interval](https://leetcode.com/problems/insert-interval/description/) | [JavaScript](./solutions/javascript/InsertInterval/InsertInterval.js)|Hard|
