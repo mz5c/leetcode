@@ -37,6 +37,7 @@
 |32|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/description/) | [JavaScript](./solutions/javascript/LongestValidParentheses/LongestValidParentheses.js)|Hard|
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | [JavaScript](./solutions/javascript/SearchinRotatedSortedArray/SearchinRotatedSortedArray.js)|Medium|
 |34|[Search for a Range](https://leetcode.com/problems/search-for-a-range/description/) | [JavaScript](./solutions/javascript/SearchforaRange/SearchforaRange.js)|Medium|
+|35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) | [JavaScript](./solutions/javascript/SearchInsertPosition/SearchInsertPosition.js)|Easy|
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) | [JavaScript](./solutions/javascript/ValidSudoku/ValidSudoku.js)|Medium|
 |38|[Count and Say](https://leetcode.com/problems/count-and-say/description/) | [JavaScript](./solutions/javascript/CountandSay/CountandSay.js)|Easy|
 |42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) | [JavaScript](./solutions/javascript/TrappingRainWater/TrappingRainWater.js)|Hard|
@@ -69,6 +70,7 @@
 |191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/) | [JavaScript](./solutions/javascript/Numberof1Bits/Numberof1Bits.js)|Easy|
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/description/) | [JavaScript](./solutions/javascript/NumberofIslands/NumberofIslands.js)|Medium|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) | [JavaScript](./solutions/javascript/ValidAnagram/ValidAnagram.js)|Easy|
+|278|[First Bad Version](https://leetcode.com/problems/first-bad-version/description/) | [Cpp](./solutions/cpp/FirstBadVersion/FirstBadVersion.cpp)|Easy|
 |374|[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/description/) | [Cpp](./solutions/cpp/GuessNumberHigherorLower/GuessNumberHigherorLower.cpp)|Easy|
 |375|[Guess Number Higher or Lower II](https://leetcode.com/problems/guess-number-higher-or-lower-ii/description/) | [JavaScript](./solutions/javascript/GuessNumberHigherorLowerII/GuessNumberHigherorLowerII.js)|Medium|
 |383|[Ransom Note](https://leetcode.com/problems/ransom-note/description/) | [JavaScript](./solutions/javascript/RansomNote/RansomNote.js)|Easy|
