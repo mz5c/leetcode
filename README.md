@@ -56,6 +56,7 @@
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/description/) | [JavaScript](./solutions/javascript/UniquePaths/UniquePaths.js)|Medium|
 |63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/description/) | [JavaScript](./solutions/javascript/UniquePathsII/UniquePathsII.js)|Medium|
 |64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/) | [JavaScript](./solutions/javascript/MinimumPathSum/MinimumPathSum.js)|Medium|
+|65|[Valid Number](https://leetcode.com/problems/valid-number/description/) | [JavaScript](./solutions/javascript/ValidNumber/ValidNumber.js)|Hard|
 |66|[Plus One](https://leetcode.com/problems/plus-one/description/) | [JavaScript](./solutions/javascript/PlusOne/PlusOne.js)|Easy|
 |77|[Combinations](https://leetcode.com/problems/combinations/description/) | [JavaScript](./solutions/javascript/Combinations/Combinations.js)|Medium|
 |78|[Subsets](https://leetcode.com/problems/subsets/description/) | [JavaScript](./solutions/javascript/Subsets/Subsets.js)|Medium|
