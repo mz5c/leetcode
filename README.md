@@ -71,6 +71,7 @@
 |182|[Duplicate Emails](https://leetcode.com/problems/duplicate-emails/description/) | [Mysql](./solutions/mysql/DuplicateEmails/DuplicateEmails.sql)|Easy|
 |191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/) | [JavaScript](./solutions/javascript/Numberof1Bits/Numberof1Bits.js)|Easy|
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/description/) | [JavaScript](./solutions/javascript/NumberofIslands/NumberofIslands.js)|Medium|
+|231|[Power of Two](https://leetcode.com/problems/power-of-two/description/) | [JavaScript](./solutions/javascript/PowerofTwo/PowerofTwo.js)|Easy|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) | [JavaScript](./solutions/javascript/ValidAnagram/ValidAnagram.js)|Easy|
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/description/) | [Cpp](./solutions/cpp/FirstBadVersion/FirstBadVersion.cpp)|Easy|
 |326|[Power of Three](https://leetcode.com/problems/power-of-three/description/) | [Javascript](./solutions/cpp/PowerofThree/PowerofThree.js)|Easy|
