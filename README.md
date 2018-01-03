@@ -40,6 +40,7 @@
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) | [JavaScript](./solutions/javascript/SearchInsertPosition/SearchInsertPosition.js)|Easy|
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) | [JavaScript](./solutions/javascript/ValidSudoku/ValidSudoku.js)|Medium|
 |38|[Count and Say](https://leetcode.com/problems/count-and-say/description/) | [JavaScript](./solutions/javascript/CountandSay/CountandSay.js)|Easy|
+|41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/) | [JavaScript](./solutions/javascript/FirstMissingPositive/FirstMissingPositive.js)|Hard|
 |42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) | [JavaScript](./solutions/javascript/TrappingRainWater/TrappingRainWater.js)|Hard|
 |45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/description/) | [JavaScript](./solutions/javascript/JumpGameII/JumpGameII.js)|Hard|
 |46|[Permutations](https://leetcode.com/problems/permutations/description/) | [JavaScript](./solutions/javascript/Permutations/Permutations.js)|Medium|
