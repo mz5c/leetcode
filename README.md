@@ -70,6 +70,7 @@
 |100|[Same Tree](https://leetcode.com/problems/same-tree/description/) | [JavaScript](./solutions/javascript/SameTree/SameTree.js)|Easy|
 |112|[Path Sum](https://leetcode.com/problems/path-sum/description/) | [JavaScript](./solutions/javascript/PathSum/PathSum.js)|Easy|
 |120|[Triangle](https://leetcode.com/problems/triangle/description/) | [JavaScript](./solutions/javascript/Triangle/Triangle.js)|Medium|
+|135|[Candy](https://leetcode.com/problems/candy/description/) | [JavaScript](./solutions/javascript/Candy/Candy.js)|Hard|
 |164|[Maximum Gap](https://leetcode.com/problems/maximum-gap/description/) | [JavaScript](./solutions/javascript/MaximumGap/MaximumGap.js)|Hard|
 |174|[Dungeon Game](https://leetcode.com/problems/dungeon-game/description/) | [JavaScript](./solutions/javascript/DungeonGame/DungeonGame.js)|Hard|
 |182|[Duplicate Emails](https://leetcode.com/problems/duplicate-emails/description/) | [Mysql](./solutions/mysql/DuplicateEmails/DuplicateEmails.sql)|Easy|
