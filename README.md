@@ -86,5 +86,6 @@
 |374|[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/description/) | [Cpp](./solutions/cpp/GuessNumberHigherorLower/GuessNumberHigherorLower.cpp)|Easy|
 |375|[Guess Number Higher or Lower II](https://leetcode.com/problems/guess-number-higher-or-lower-ii/description/) | [JavaScript](./solutions/javascript/GuessNumberHigherorLowerII/GuessNumberHigherorLowerII.js)|Medium|
 |383|[Ransom Note](https://leetcode.com/problems/ransom-note/description/) | [JavaScript](./solutions/javascript/RansomNote/RansomNote.js)|Easy|
+|390|[Elimination Game](https://leetcode.com/problems/elimination-game/description/) | [JavaScript](./solutions/javascript/EliminationGame/EliminationGame.js)|Medium|
 |401|[Binary Watch](https://leetcode.com/problems/binary-watch/description/) | [JavaScript](./solutions/javascript/BinaryWatch/BinaryWatch.js)|Easy|
 |437|[Path Sum III](https://leetcode.com/problems/path-sum-iii/description/) | [JavaScript](./solutions/javascript/PathSumIII/PathSumIII.js)|Easy|
