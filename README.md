@@ -68,6 +68,7 @@
 |90|[Subsets II](https://leetcode.com/problems/subsets-ii/description/) | [JavaScript](./solutions/javascript/SubsetsII/SubsetsII.js)|Medium|
 |96|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/description/) | [JavaScript](./solutions/javascript/UniqueBinarySearchTrees/UniqueBinarySearchTrees.js)|Medium|
 |100|[Same Tree](https://leetcode.com/problems/same-tree/description/) | [JavaScript](./solutions/javascript/SameTree/SameTree.js)|Easy|
+|101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) | [JavaScript](./solutions/javascript/SymmetricTree/SymmetricTree.js)|Easy|
 |112|[Path Sum](https://leetcode.com/problems/path-sum/description/) | [JavaScript](./solutions/javascript/PathSum/PathSum.js)|Easy|
 |120|[Triangle](https://leetcode.com/problems/triangle/description/) | [JavaScript](./solutions/javascript/Triangle/Triangle.js)|Medium|
 |135|[Candy](https://leetcode.com/problems/candy/description/) | [JavaScript](./solutions/javascript/Candy/Candy.js)|Hard|
