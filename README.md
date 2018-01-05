@@ -89,4 +89,5 @@
 |390|[Elimination Game](https://leetcode.com/problems/elimination-game/description/) | [JavaScript](./solutions/javascript/EliminationGame/EliminationGame.js)|Medium|
 |401|[Binary Watch](https://leetcode.com/problems/binary-watch/description/) | [JavaScript](./solutions/javascript/BinaryWatch/BinaryWatch.js)|Easy|
 |437|[Path Sum III](https://leetcode.com/problems/path-sum-iii/description/) | [JavaScript](./solutions/javascript/PathSumIII/PathSumIII.js)|Easy|
+|648|[Replace Words](https://leetcode.com/problems/replace-words/description/) | [JavaScript](./solutions/javascript/ReplaceWords/ReplaceWords.js)|Medium|
 |717|[1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/description/) | [JavaScript](./solutions/javascript/1-bitand2-bitCharacters/1-bitand2-bitCharacters.js)|Easy|
