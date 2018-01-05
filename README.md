@@ -91,3 +91,4 @@
 |437|[Path Sum III](https://leetcode.com/problems/path-sum-iii/description/) | [JavaScript](./solutions/javascript/PathSumIII/PathSumIII.js)|Easy|
 |648|[Replace Words](https://leetcode.com/problems/replace-words/description/) | [JavaScript](./solutions/javascript/ReplaceWords/ReplaceWords.js)|Medium|
 |717|[1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/description/) | [JavaScript](./solutions/javascript/1-bitand2-bitCharacters/1-bitand2-bitCharacters.js)|Easy|
+|739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/) | [JavaScript](./solutions/javascript/DailyTemperatures/DailyTemperatures.js)|Medium|
