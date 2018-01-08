@@ -89,6 +89,7 @@
 |390|[Elimination Game](https://leetcode.com/problems/elimination-game/description/) | [JavaScript](./solutions/javascript/EliminationGame/EliminationGame.js)|Medium|
 |401|[Binary Watch](https://leetcode.com/problems/binary-watch/description/) | [JavaScript](./solutions/javascript/BinaryWatch/BinaryWatch.js)|Easy|
 |437|[Path Sum III](https://leetcode.com/problems/path-sum-iii/description/) | [JavaScript](./solutions/javascript/PathSumIII/PathSumIII.js)|Easy|
+|593|[Valid Square](https://leetcode.com/problems/valid-square/description/) | [JavaScript](./solutions/javascript/ValidSquare/ValidSquare.js)|Medium|
 |595|[Big Countries](https://leetcode.com/problems/big-countries/description/) | [Mysql](./solutions/mysql/BigCountries/BigCountries.sql)|Easy|
 |620|[Not Boring Movies](https://leetcode.com/problems/not-boring-movies/description/) | [Mysql](./solutions/mysql/NotBoringMovies/NotBoringMovies.sql)|Easy|
 |648|[Replace Words](https://leetcode.com/problems/replace-words/description/) | [JavaScript](./solutions/javascript/ReplaceWords/ReplaceWords.js)|Medium|
