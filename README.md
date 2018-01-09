@@ -90,6 +90,7 @@
 |401|[Binary Watch](https://leetcode.com/problems/binary-watch/description/) | [JavaScript](./solutions/javascript/BinaryWatch/BinaryWatch.js)|Easy|
 |437|[Path Sum III](https://leetcode.com/problems/path-sum-iii/description/) | [JavaScript](./solutions/javascript/PathSumIII/PathSumIII.js)|Easy|
 |460|[LFU Cache](https://leetcode.com/problems/lfu-cache/description/) | [JavaScript](./solutions/javascript/LFUCache/LFUCache.js)|Hard|
+|567|[Permutation in String](https://leetcode.com/problems/permutation-in-string/description/) | [JavaScript](./solutions/javascript/PermutationinString/PermutationinString.js)|Medium|
 |593|[Valid Square](https://leetcode.com/problems/valid-square/description/) | [JavaScript](./solutions/javascript/ValidSquare/ValidSquare.js)|Medium|
 |595|[Big Countries](https://leetcode.com/problems/big-countries/description/) | [Mysql](./solutions/mysql/BigCountries/BigCountries.sql)|Easy|
 |620|[Not Boring Movies](https://leetcode.com/problems/not-boring-movies/description/) | [Mysql](./solutions/mysql/NotBoringMovies/NotBoringMovies.sql)|Easy|
