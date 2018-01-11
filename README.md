@@ -93,6 +93,7 @@
 |437|[Path Sum III](https://leetcode.com/problems/path-sum-iii/description/) | [JavaScript](./solutions/javascript/PathSumIII/PathSumIII.js)|Easy|
 |452|[Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description/) | [JavaScript](./solutions/javascript/MinimumNumberofArrowstoBurstBalloons/MinimumNumberofArrowstoBurstBalloons.js)|Medium|
 |460|[LFU Cache](https://leetcode.com/problems/lfu-cache/description/) | [JavaScript](./solutions/javascript/LFUCache/LFUCache.js)|Hard|
+|492|[Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/description/) | [JavaScript](./solutions/javascript/ConstructtheRectangle/ConstructtheRectangle.js)|Easy|
 |567|[Permutation in String](https://leetcode.com/problems/permutation-in-string/description/) | [JavaScript](./solutions/javascript/PermutationinString/PermutationinString.js)|Medium|
 |593|[Valid Square](https://leetcode.com/problems/valid-square/description/) | [JavaScript](./solutions/javascript/ValidSquare/ValidSquare.js)|Medium|
 |595|[Big Countries](https://leetcode.com/problems/big-countries/description/) | [Mysql](./solutions/mysql/BigCountries/BigCountries.sql)|Easy|
