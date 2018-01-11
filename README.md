@@ -86,6 +86,7 @@
 |374|[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/description/) | [Cpp](./solutions/cpp/GuessNumberHigherorLower/GuessNumberHigherorLower.cpp)|Easy|
 |375|[Guess Number Higher or Lower II](https://leetcode.com/problems/guess-number-higher-or-lower-ii/description/) | [JavaScript](./solutions/javascript/GuessNumberHigherorLowerII/GuessNumberHigherorLowerII.js)|Medium|
 |383|[Ransom Note](https://leetcode.com/problems/ransom-note/description/) | [JavaScript](./solutions/javascript/RansomNote/RansomNote.js)|Easy|
+|384|[Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/description/) | [JavaScript](./solutions/javascript/ShuffleanArray/ShuffleanArray.js)|Medium|
 |387|[FirstUniqueCharacterinaString](https://leetcode.com/problems/first-unique-character-in-a-string/description/) | [JavaScript](./solutions/javascript/FirstUniqueCharacterinaString/FirstUniqueCharacterinaString.js)|Easy|
 |390|[Elimination Game](https://leetcode.com/problems/elimination-game/description/) | [JavaScript](./solutions/javascript/EliminationGame/EliminationGame.js)|Medium|
 |401|[Binary Watch](https://leetcode.com/problems/binary-watch/description/) | [JavaScript](./solutions/javascript/BinaryWatch/BinaryWatch.js)|Easy|
