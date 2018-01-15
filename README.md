@@ -59,6 +59,7 @@
 |64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/) | [JavaScript](./solutions/javascript/MinimumPathSum/MinimumPathSum.js)|Medium|
 |65|[Valid Number](https://leetcode.com/problems/valid-number/description/) | [JavaScript](./solutions/javascript/ValidNumber/ValidNumber.js)|Hard|
 |66|[Plus One](https://leetcode.com/problems/plus-one/description/) | [JavaScript](./solutions/javascript/PlusOne/PlusOne.js)|Easy|
+|71|[Simplify Path](https://leetcode.com/problems/simplify-path/description/) | [JavaScript](./solutions/javascript/SimplifyPath/SimplifyPath.js)|Medium|
 |77|[Combinations](https://leetcode.com/problems/combinations/description/) | [JavaScript](./solutions/javascript/Combinations/Combinations.js)|Medium|
 |78|[Subsets](https://leetcode.com/problems/subsets/description/) | [JavaScript](./solutions/javascript/Subsets/Subsets.js)|Medium|
 |79|[Word Search](https://leetcode.com/problems/word-search/description/) | [JavaScript](./solutions/javascript/WordSearch/WordSearch.js)|Medium|
