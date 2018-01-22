@@ -68,6 +68,7 @@
 |79|[Word Search](https://leetcode.com/problems/word-search/description/) | [JavaScript](./solutions/javascript/WordSearch/WordSearch.js)|Medium|
 |80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/) | [JavaScript](./solutions/javascript/RemoveDuplicatesfromSortedArrayII/RemoveDuplicatesfromSortedArrayII.js)|Medium|
 |81|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/) | [JavaScript](./solutions/javascript/SearchinRotatedSortedArrayII/SearchinRotatedSortedArrayII.js)|Medium|
+|82|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/) | [JavaScript](./solutions/javascript/RemoveDuplicatesfromSortedListII/RemoveDuplicatesfromSortedListII.js)|Medium|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/) | [JavaScript](./solutions/javascript/RemoveDuplicatesfromSortedList/RemoveDuplicatesfromSortedList.js)|Easy|
 |86|[Partition List](https://leetcode.com/problems/partition-list/description/) | [JavaScript](./solutions/javascript/PartitionList/PartitionList.js)|Medium|
 |89|[Gray Code](https://leetcode.com/problems/gray-code/description/) | [JavaScript](./solutions/javascript/GrayCode/GrayCode.js)|Medium|
