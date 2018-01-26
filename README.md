@@ -75,6 +75,7 @@
 |89|[Gray Code](https://leetcode.com/problems/gray-code/description/) | [JavaScript](./solutions/javascript/GrayCode/GrayCode.js)|Medium|
 |90|[Subsets II](https://leetcode.com/problems/subsets-ii/description/) | [JavaScript](./solutions/javascript/SubsetsII/SubsetsII.js)|Medium|
 |91|[Decode Ways](https://leetcode.com/problems/decode-ways/description/) | [JavaScript](./solutions/javascript/DecodeWays/DecodeWays.js)|Medium|
+|93|[Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/description/) | [JavaScript](./solutions/javascript/RestoreIPAddresses/RestoreIPAddresses.js)|Medium|
 |96|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/description/) | [JavaScript](./solutions/javascript/UniqueBinarySearchTrees/UniqueBinarySearchTrees.js)|Medium|
 |100|[Same Tree](https://leetcode.com/problems/same-tree/description/) | [JavaScript](./solutions/javascript/SameTree/SameTree.js)|Easy|
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) | [JavaScript](./solutions/javascript/SymmetricTree/SymmetricTree.js)|Easy|
