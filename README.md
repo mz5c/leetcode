@@ -83,6 +83,7 @@
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) | [JavaScript](./solutions/javascript/SymmetricTree/SymmetricTree.js)|Easy|
 |111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/) | [JavaScript](./solutions/javascript/MinimumDepthofBinaryTree/MinimumDepthofBinaryTree.js)|Easy|
 |112|[Path Sum](https://leetcode.com/problems/path-sum/description/) | [JavaScript](./solutions/javascript/PathSum/PathSum.js)|Easy|
+|113|[Path Sum II](https://leetcode.com/problems/path-sum-ii/description/) | [JavaScript](./solutions/javascript/PathSumII/PathSumII.js)|Medium|
 |120|[Triangle](https://leetcode.com/problems/triangle/description/) | [JavaScript](./solutions/javascript/Triangle/Triangle.js)|Medium|
 |135|[Candy](https://leetcode.com/problems/candy/description/) | [JavaScript](./solutions/javascript/Candy/Candy.js)|Hard|
 |164|[Maximum Gap](https://leetcode.com/problems/maximum-gap/description/) | [JavaScript](./solutions/javascript/MaximumGap/MaximumGap.js)|Hard|
