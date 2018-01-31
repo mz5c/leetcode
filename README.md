@@ -84,6 +84,7 @@
 |111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/) | [JavaScript](./solutions/javascript/MinimumDepthofBinaryTree/MinimumDepthofBinaryTree.js)|Easy|
 |112|[Path Sum](https://leetcode.com/problems/path-sum/description/) | [JavaScript](./solutions/javascript/PathSum/PathSum.js)|Easy|
 |113|[Path Sum II](https://leetcode.com/problems/path-sum-ii/description/) | [JavaScript](./solutions/javascript/PathSumII/PathSumII.js)|Medium|
+|118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/) | [JavaScript](./solutions/javascript/PascalsTriangle/PascalsTriangle.js)|Easy|
 |120|[Triangle](https://leetcode.com/problems/triangle/description/) | [JavaScript](./solutions/javascript/Triangle/Triangle.js)|Medium|
 |135|[Candy](https://leetcode.com/problems/candy/description/) | [JavaScript](./solutions/javascript/Candy/Candy.js)|Hard|
 |164|[Maximum Gap](https://leetcode.com/problems/maximum-gap/description/) | [JavaScript](./solutions/javascript/MaximumGap/MaximumGap.js)|Hard|
