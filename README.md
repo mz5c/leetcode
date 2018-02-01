@@ -81,6 +81,7 @@
 |96|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/description/) | [JavaScript](./solutions/javascript/UniqueBinarySearchTrees/UniqueBinarySearchTrees.js)|Medium|
 |100|[Same Tree](https://leetcode.com/problems/same-tree/description/) | [JavaScript](./solutions/javascript/SameTree/SameTree.js)|Easy|
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) | [JavaScript](./solutions/javascript/SymmetricTree/SymmetricTree.js)|Easy|
+|104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | [JavaScript](./solutions/javascript/MaximumDepthofBinaryTree/MaximumDepthofBinaryTree.js)|Easy|
 |111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/) | [JavaScript](./solutions/javascript/MinimumDepthofBinaryTree/MinimumDepthofBinaryTree.js)|Easy|
 |112|[Path Sum](https://leetcode.com/problems/path-sum/description/) | [JavaScript](./solutions/javascript/PathSum/PathSum.js)|Easy|
 |113|[Path Sum II](https://leetcode.com/problems/path-sum-ii/description/) | [JavaScript](./solutions/javascript/PathSumII/PathSumII.js)|Medium|
