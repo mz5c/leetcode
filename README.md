@@ -96,6 +96,7 @@
 |182|[Duplicate Emails](https://leetcode.com/problems/duplicate-emails/description/) | [Mysql](./solutions/mysql/DuplicateEmails/DuplicateEmails.sql)|Easy|
 |191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/) | [JavaScript](./solutions/javascript/Numberof1Bits/Numberof1Bits.js)|Easy|
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/description/) | [JavaScript](./solutions/javascript/NumberofIslands/NumberofIslands.js)|Medium|
+|229|[Majority Element II](https://leetcode.com/problems/majority-element-ii/description/) | [JavaScript](./solutions/javascript/MajorityElementII/MajorityElementII.js)|Medium|
 |231|[Power of Two](https://leetcode.com/problems/power-of-two/description/) | [JavaScript](./solutions/javascript/PowerofTwo/PowerofTwo.js)|Easy|
 |240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/description/) | [JavaScript](./solutions/javascript/Searcha2DMatrixII/Searcha2DMatrixII.js)|Medium|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) | [JavaScript](./solutions/javascript/ValidAnagram/ValidAnagram.js)|Easy|
