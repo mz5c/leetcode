@@ -91,6 +91,7 @@
 |120|[Triangle](https://leetcode.com/problems/triangle/description/) | [JavaScript](./solutions/javascript/Triangle/Triangle.js)|Medium|
 |135|[Candy](https://leetcode.com/problems/candy/description/) | [JavaScript](./solutions/javascript/Candy/Candy.js)|Hard|
 |164|[Maximum Gap](https://leetcode.com/problems/maximum-gap/description/) | [JavaScript](./solutions/javascript/MaximumGap/MaximumGap.js)|Hard|
+|169|[Majority Element](https://leetcode.com/problems/majority-element/description/) | [JavaScript](./solutions/javascript/MajorityElement/MajorityElement.js)|Easy|
 |174|[Dungeon Game](https://leetcode.com/problems/dungeon-game/description/) | [JavaScript](./solutions/javascript/DungeonGame/DungeonGame.js)|Hard|
 |182|[Duplicate Emails](https://leetcode.com/problems/duplicate-emails/description/) | [Mysql](./solutions/mysql/DuplicateEmails/DuplicateEmails.sql)|Easy|
 |191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/) | [JavaScript](./solutions/javascript/Numberof1Bits/Numberof1Bits.js)|Easy|
