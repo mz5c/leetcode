@@ -91,6 +91,7 @@
 |120|[Triangle](https://leetcode.com/problems/triangle/description/) | [JavaScript](./solutions/javascript/Triangle/Triangle.js)|Medium|
 |135|[Candy](https://leetcode.com/problems/candy/description/) | [JavaScript](./solutions/javascript/Candy/Candy.js)|Hard|
 |146|[LRU Cache](https://leetcode.com/problems/lru-cache/description/) | [JavaScript](./solutions/javascript/LRUCache/LRUCache.js)|Hard|
+|150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/) | [JavaScript](./solutions/javascript/EvaluateReversePolishNotation/EvaluateReversePolishNotation.js)|Medium|
 |164|[Maximum Gap](https://leetcode.com/problems/maximum-gap/description/) | [JavaScript](./solutions/javascript/MaximumGap/MaximumGap.js)|Hard|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/description/) | [JavaScript](./solutions/javascript/MajorityElement/MajorityElement.js)|Easy|
 |174|[Dungeon Game](https://leetcode.com/problems/dungeon-game/description/) | [JavaScript](./solutions/javascript/DungeonGame/DungeonGame.js)|Hard|
