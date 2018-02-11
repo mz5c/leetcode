@@ -98,6 +98,7 @@
 |169|[Majority Element](https://leetcode.com/problems/majority-element/description/) | [JavaScript](./solutions/javascript/MajorityElement/MajorityElement.js)|Easy|
 |174|[Dungeon Game](https://leetcode.com/problems/dungeon-game/description/) | [JavaScript](./solutions/javascript/DungeonGame/DungeonGame.js)|Hard|
 |182|[Duplicate Emails](https://leetcode.com/problems/duplicate-emails/description/) | [Mysql](./solutions/mysql/DuplicateEmails/DuplicateEmails.sql)|Easy|
+|189|[Rotate Array](https://leetcode.com/problems/rotate-array/description/) | [JavaScript](./solutions/javascript/RotateArray/RotateArray.js)|Easy|
 |191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/) | [JavaScript](./solutions/javascript/Numberof1Bits/Numberof1Bits.js)|Easy|
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/description/) | [JavaScript](./solutions/javascript/NumberofIslands/NumberofIslands.js)|Medium|
 |229|[Majority Element II](https://leetcode.com/problems/majority-element-ii/description/) | [JavaScript](./solutions/javascript/MajorityElementII/MajorityElementII.js)|Medium|
