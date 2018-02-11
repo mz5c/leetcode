@@ -91,6 +91,7 @@
 |120|[Triangle](https://leetcode.com/problems/triangle/description/) | [JavaScript](./solutions/javascript/Triangle/Triangle.js)|Medium|
 |135|[Candy](https://leetcode.com/problems/candy/description/) | [JavaScript](./solutions/javascript/Candy/Candy.js)|Hard|
 |146|[LRU Cache](https://leetcode.com/problems/lru-cache/description/) | [JavaScript](./solutions/javascript/LRUCache/LRUCache.js)|Hard|
+|149|[Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/description/) | [JavaScript](./solutions/javascript/MaxPointsonaLine/MaxPointsonaLine.js)|Hard|
 |150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/) | [JavaScript](./solutions/javascript/EvaluateReversePolishNotation/EvaluateReversePolishNotation.js)|Medium|
 |152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/) | [JavaScript](./solutions/javascript/MaximumProductSubarray/MaximumProductSubarray.js)|Medium|
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/description/) | [JavaScript](./solutions/javascript/FindPeakElement/FindPeakElement.js)|Medium|
