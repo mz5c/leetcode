@@ -106,6 +106,7 @@
 |195|[Tenth Line](https://leetcode.com/problems/tenth-line/description/) | [Shell](./solutions/shell/TenthLine/TenthLine.sh)|Easy|
 |196|[Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/description/) | [Mysql](./solutions/mysql/DeleteDuplicateEmails/DeleteDuplicateEmails.sql)|Easy|
 |197|[Rising Temperature](https://leetcode.com/problems/rising-temperature/description/) | [Mysql](./solutions/mysql/RisingTemperature/RisingTemperature.sql)|Easy|
+|198|[House Robber](https://leetcode.com/problems/house-robber/description/) | [JavaScript](./solutions/javascript/HouseRobber/HouseRobber.js)|Easy|
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/description/) | [JavaScript](./solutions/javascript/NumberofIslands/NumberofIslands.js)|Medium|
 |229|[Majority Element II](https://leetcode.com/problems/majority-element-ii/description/) | [JavaScript](./solutions/javascript/MajorityElementII/MajorityElementII.js)|Medium|
 |231|[Power of Two](https://leetcode.com/problems/power-of-two/description/) | [JavaScript](./solutions/javascript/PowerofTwo/PowerofTwo.js)|Easy|
