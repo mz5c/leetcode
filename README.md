@@ -110,6 +110,7 @@
 |199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/description/) | [JavaScript](./solutions/javascript/BinaryTreeRightSideView/BinaryTreeRightSideView.js)|Medium|
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/description/) | [JavaScript](./solutions/javascript/NumberofIslands/NumberofIslands.js)|Medium|
 |202|[Happy Number](https://leetcode.com/problems/happy-number/description/) | [JavaScript](./solutions/javascript/HappyNumber/HappyNumber.js)|Easy|
+|204|[Count Primes](https://leetcode.com/problems/count-primes/description/) | [JavaScript](./solutions/javascript/CountPrimes/CountPrimes.js)|Easy|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | [JavaScript](./solutions/javascript/ReverseLinkedList/ReverseLinkedList.js)|Easy|
 |229|[Majority Element II](https://leetcode.com/problems/majority-element-ii/description/) | [JavaScript](./solutions/javascript/MajorityElementII/MajorityElementII.js)|Medium|
 |231|[Power of Two](https://leetcode.com/problems/power-of-two/description/) | [JavaScript](./solutions/javascript/PowerofTwo/PowerofTwo.js)|Easy|
