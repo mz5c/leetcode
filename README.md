@@ -113,6 +113,7 @@
 |204|[Count Primes](https://leetcode.com/problems/count-primes/description/) | [JavaScript](./solutions/javascript/CountPrimes/CountPrimes.js)|Easy|
 |205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/) | [JavaScript](./solutions/javascript/IsomorphicStrings/IsomorphicStrings.js)|Easy|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | [JavaScript](./solutions/javascript/ReverseLinkedList/ReverseLinkedList.js)|Easy|
+|217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) | [Java](./solutions/java/ContainsDuplicate/ContainsDuplicate.java)|Easy|
 |229|[Majority Element II](https://leetcode.com/problems/majority-element-ii/description/) | [JavaScript](./solutions/javascript/MajorityElementII/MajorityElementII.js)|Medium|
 |231|[Power of Two](https://leetcode.com/problems/power-of-two/description/) | [JavaScript](./solutions/javascript/PowerofTwo/PowerofTwo.js)|Easy|
 |240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/description/) | [JavaScript](./solutions/javascript/Searcha2DMatrixII/Searcha2DMatrixII.js)|Medium|
