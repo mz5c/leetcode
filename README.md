@@ -19,7 +19,7 @@
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/) | [JavaScript](./solutions/javascript/RomantoInteger/RomantoInteger.js),[Java](./solutions/java/RomantoInteger/RomantoInteger.java)|Easy|[click](./thinking/RomantoInteger/README.md)|
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) | [JavaScript](./solutions/javascript/LongestCommonPrefix/LongestCommonPrefix.js),[Java](./solutions/java/LongestCommonPrefix/LongestCommonPrefix.java)|Easy|[click](./thinking/LongestCommonPrefix/README.md)|
 |15|[3Sum](https://leetcode.com/problems/3sum/description/) | [JavaScript](./solutions/javascript/3Sum/3Sum.js),[Java](./solutions/java/3Sum/3Sum.java)|Medium|[click](./thinking/3Sum/README.md)|
-|16|[3Sum Closest](https://leetcode.com/problems/3sum-closest/description/) | [JavaScript](./solutions/javascript/3SumClosest/3SumClosest.js)|Medium|
+|16|[3Sum Closest](https://leetcode.com/problems/3sum-closest/description/) | [JavaScript](./solutions/javascript/3SumClosest/3SumClosest.js),[Java](./solutions/java/3SumClosest/3SumClosest.java)|Medium|[click](./thinking/3SumClosest/README.md)|
 |17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) | [JavaScript](./solutions/javascript/LetterCombinationsofaPhoneNumber/LetterCombinationsofaPhoneNumber.js)|Medium|
 |18|[4Sum](https://leetcode.com/problems/4sum/description/) | [JavaScript](./solutions/javascript/4Sum/4Sum.js)|Medium|
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) | [JavaScript](./solutions/javascript/RemoveNthNodeFromEndofList/RemoveNthNodeFromEndofList.js)|Medium|
