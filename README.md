@@ -29,7 +29,7 @@
 |23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) | [JavaScript](./solutions/javascript/MergekSortedLists/MergekSortedLists.js)|Hard|
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/) | [JavaScript](./solutions/javascript/SwapNodesinPairs/SwapNodesinPairs.js)|Medium|
 |25|[Reverse Nodes in k-Group](https://leetcode.com/reverse-nodes-in-k-group/description/) | [JavaScript](./solutions/javascript/ReverseNodesink-Group/ReverseNodesink-Group.js)|Hard|
-|26|[Remove Duplicates from Sorted Array](https://leetcode.com/remove-duplicates-from-sorted-array/description/) | [JavaScript](./solutions/javascript/RemoveDuplicatesfromSortedArray/RemoveDuplicatesfromSortedArray.js)|Easy|
+|26|[Remove Duplicates from Sorted Array](https://leetcode.com/remove-duplicates-from-sorted-array/description/) | [JavaScript](./solutions/javascript/RemoveDuplicatesfromSortedArray/RemoveDuplicatesfromSortedArray.js),[Java](./solutions/java/RemoveDuplicatesfromSortedArray/RemoveDuplicatesfromSortedArray.java)|Easy|[click](./thinking/RemoveDuplicatesfromSortedArray/README.md)|
 |27|[Remove Element](https://leetcode.com/remove-element/description/) | [JavaScript](./solutions/javascript/RemoveElement/RemoveElement.js)|Easy|
 |28|[Implement strStr()](https://leetcode.com/implement-strstr/description/) | [JavaScript](./solutions/javascript/ImplementstrStr/ImplementstrStr.js)|Easy|
 |29|[Divide Two Integers](https://leetcode.com/divide-two-integers/description/) | [Cpp](./solutions/cpp/DivideTwoIntegers/DivideTwoIntegers.cpp)|Medium|
