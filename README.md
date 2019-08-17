@@ -28,13 +28,13 @@
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) | [JavaScript](./solutions/javascript/GenerateParentheses/GenerateParentheses.js),[Java](./solutions/java/GenerateParentheses/GenerateParentheses.java)|Medium|[click](./thinking/GenerateParentheses/README.md)|
 |23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) | [JavaScript](./solutions/javascript/MergekSortedLists/MergekSortedLists.js)|Hard|
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/) | [JavaScript](./solutions/javascript/SwapNodesinPairs/SwapNodesinPairs.js)|Medium|
-|25|[Reverse Nodes in k-Group](https://leetcode.com/reverse-nodes-in-k-group/description/) | [JavaScript](./solutions/javascript/ReverseNodesink-Group/ReverseNodesink-Group.js)|Hard|
-|26|[Remove Duplicates from Sorted Array](https://leetcode.com/remove-duplicates-from-sorted-array/description/) | [JavaScript](./solutions/javascript/RemoveDuplicatesfromSortedArray/RemoveDuplicatesfromSortedArray.js),[Java](./solutions/java/RemoveDuplicatesfromSortedArray/RemoveDuplicatesfromSortedArray.java)|Easy|[click](./thinking/RemoveDuplicatesfromSortedArray/README.md)|
-|27|[Remove Element](https://leetcode.com/remove-element/description/) | [JavaScript](./solutions/javascript/RemoveElement/RemoveElement.js)|Easy|
-|28|[Implement strStr()](https://leetcode.com/implement-strstr/description/) | [JavaScript](./solutions/javascript/ImplementstrStr/ImplementstrStr.js)|Easy|
-|29|[Divide Two Integers](https://leetcode.com/divide-two-integers/description/) | [Cpp](./solutions/cpp/DivideTwoIntegers/DivideTwoIntegers.cpp)|Medium|
-|30|[Substring with Concatenation of All Words](https://leetcode.com/substring-with-concatenation-of-all-words/description/) | [JavaScript](./solutions/cpp/SubstringwithConcatenationofAllWords/SubstringwithConcatenationofAllWords.js)|Hard|
-|31|[Next Permutation](https://leetcode.com/next-permutation/description/) | [JavaScript](./solutions/cpp/NextPermutation/NextPermutation.js)|Medium|
+|25|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/) | [JavaScript](./solutions/javascript/ReverseNodesink-Group/ReverseNodesink-Group.js)|Hard|
+|26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [JavaScript](./solutions/javascript/RemoveDuplicatesfromSortedArray/RemoveDuplicatesfromSortedArray.js),[Java](./solutions/java/RemoveDuplicatesfromSortedArray/RemoveDuplicatesfromSortedArray.java)|Easy|[click](./thinking/RemoveDuplicatesfromSortedArray/README.md)|
+|27|[Remove Element](https://leetcode.com/problems/remove-element/description/) | [JavaScript](./solutions/javascript/RemoveElement/RemoveElement.js)|Easy|
+|28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/description/) | [JavaScript](./solutions/javascript/ImplementstrStr/ImplementstrStr.js)|Easy|
+|29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/description/) | [Cpp](./solutions/cpp/DivideTwoIntegers/DivideTwoIntegers.cpp)|Medium|
+|30|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/description/) | [JavaScript](./solutions/cpp/SubstringwithConcatenationofAllWords/SubstringwithConcatenationofAllWords.js)|Hard|
+|31|[Next Permutation](https://leetcode.com/problems/next-permutation/description/) | [JavaScript](./solutions/cpp/NextPermutation/NextPermutation.js)|Medium|
 |32|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/description/) | [JavaScript](./solutions/javascript/LongestValidParentheses/LongestValidParentheses.js)|Hard|
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | [JavaScript](./solutions/javascript/SearchinRotatedSortedArray/SearchinRotatedSortedArray.js)|Medium|
 |34|[Search for a Range](https://leetcode.com/problems/search-for-a-range/description/) | [JavaScript](./solutions/javascript/SearchforaRange/SearchforaRange.js)|Medium|
