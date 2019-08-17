@@ -4,17 +4,11 @@
  * @return {number}
  */
 var removeElement = function(nums, val) {
-    var i = 0;
-    while (true) {
-        if (i < nums.length) {
-            if (nums[i] == val) {
-                nums.splice(i, 1);
-            } else {
-                i++;
-            }
-        } else {
-            break;
+    var n = 0;
+    for (var i = 0; i < nums.length; i++) {
+        if (nums[i] != val) {
+            nums[n++] = nums[i];
         }
     }
-    return nums.length;
+    return n;
 };
