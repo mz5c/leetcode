@@ -105,7 +105,7 @@
 |191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/) | [JavaScript](./solutions/javascript/Numberof1Bits/Numberof1Bits.js)|Easy|
 |194|[Transpose File](https://leetcode.com/problems/transpose-file/description/) | [Shell](./solutions/shell/TransposeFile/TransposeFile.sh)|Medium|
 |195|[Tenth Line](https://leetcode.com/problems/tenth-line/description/) | [Shell](./solutions/shell/TenthLine/TenthLine.sh)|Easy|
-|196|[Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/description/) | [Mysql](./solutions/mysql/DeleteDuplicateEmails/DeleteDuplicateEmails.sql)|Easy|
+|196|[Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/description/) | [Mysql](./solutions/mysql/DeleteDuplicateEmails/DeleteDuplicateEmails.sql)|Easy|[click](./thinking/DeleteDuplicateEmails/README.md)|
 |197|[Rising Temperature](https://leetcode.com/problems/rising-temperature/description/) | [Mysql](./solutions/mysql/RisingTemperature/RisingTemperature.sql)|Easy|
 |198|[House Robber](https://leetcode.com/problems/house-robber/description/) | [JavaScript](./solutions/javascript/HouseRobber/HouseRobber.js)|Easy|
 |199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/description/) | [JavaScript](./solutions/javascript/BinaryTreeRightSideView/BinaryTreeRightSideView.js)|Medium|
