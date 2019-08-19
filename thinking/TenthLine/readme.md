@@ -1,7 +1,7 @@
 ### 解题思路
 ```bash
-$ head -10 file.txt | tail -1
+$ tail -n+10 file.txt|head -1
 ```
-`head -10 file.txt`输出前10行  
-`tail -1`输出最后一行  
-组合得到获取第十行
+`tail -n+10 file.txt`输出第十行到文件末尾 
+`head -1`输出第一行  
+组合得到获取第十行，不符合则返回空
