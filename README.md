@@ -104,7 +104,7 @@
 |190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/description/) | [JavaScript](./solutions/javascript/ReverseBits/ReverseBits.js)|Easy|
 |191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/) | [JavaScript](./solutions/javascript/Numberof1Bits/Numberof1Bits.js)|Easy|
 |194|[Transpose File](https://leetcode.com/problems/transpose-file/description/) | [Shell](./solutions/shell/TransposeFile/TransposeFile.sh)|Medium|[click](./thinking/TransposeFile/readme.md)|
-|195|[Tenth Line](https://leetcode.com/problems/tenth-line/description/) | [Shell](./solutions/shell/TenthLine/TenthLine.sh)|Easy|
+|195|[Tenth Line](https://leetcode.com/problems/tenth-line/description/) | [Shell](./solutions/shell/TenthLine/TenthLine.sh)|Easy|[click](./thinking/TenthLine/readme.md)|
 |196|[Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/description/) | [Mysql](./solutions/mysql/DeleteDuplicateEmails/DeleteDuplicateEmails.sql)|Easy|[click](./thinking/DeleteDuplicateEmails/README.md)|
 |197|[Rising Temperature](https://leetcode.com/problems/rising-temperature/description/) | [Mysql](./solutions/mysql/RisingTemperature/RisingTemperature.sql)|Easy|[click](./thinking/RisingTemperature/README.md)|
 |198|[House Robber](https://leetcode.com/problems/house-robber/description/) | [JavaScript](./solutions/javascript/HouseRobber/HouseRobber.js)|Easy|
