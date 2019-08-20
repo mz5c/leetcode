@@ -122,7 +122,7 @@
 |274|[H-Index](https://leetcode.com/problems/h-index/description/) | [Javascript](./solutions/javascript/H-Index/H-Index.js)|Medium|
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/description/) | [Cpp](./solutions/cpp/FirstBadVersion/FirstBadVersion.cpp),[Java](./solutions/java/FirstBadVersion/FirstBadVersion.java)|Easy|[click](./thinking/FirstBadVersion/readme.md)|
 |326|[Power of Three](https://leetcode.com/problems/power-of-three/description/) | [Javascript](./solutions/javascript/PowerofThree/PowerofThree.js),[Java](./solutions/java/PowerofThree/PowerofThree.java)|Easy|[click](./thinking/PowerofThree/readme.md)
-|342|[Power of Four](https://leetcode.com/problems/power-of-four/description/) | [Javascript](./solutions/javascript/PowerofFour/PowerofFour.js)|Easy|
+|342|[Power of Four](https://leetcode.com/problems/power-of-four/description/) | [Javascript](./solutions/javascript/PowerofFour/PowerofFour.js),[Java](./solutions/java/PowerofFour/PowerofFour.java)|Easy|[click](./thinking/PowerofFour/readme.md)|
 |374|[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/description/) | [Cpp](./solutions/cpp/GuessNumberHigherorLower/GuessNumberHigherorLower.cpp)|Easy|
 |375|[Guess Number Higher or Lower II](https://leetcode.com/problems/guess-number-higher-or-lower-ii/description/) | [JavaScript](./solutions/javascript/GuessNumberHigherorLowerII/GuessNumberHigherorLowerII.js)|Medium|
 |383|[Ransom Note](https://leetcode.com/problems/ransom-note/description/) | [JavaScript](./solutions/javascript/RansomNote/RansomNote.js)|Easy|
