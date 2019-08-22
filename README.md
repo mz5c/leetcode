@@ -132,7 +132,7 @@
 |401|[Binary Watch](https://leetcode.com/problems/binary-watch/description/) | [JavaScript](./solutions/javascript/BinaryWatch/BinaryWatch.js)|Easy|
 |437|[Path Sum III](https://leetcode.com/problems/path-sum-iii/description/) | [JavaScript](./solutions/javascript/PathSumIII/PathSumIII.js)|Easy|
 |452|[Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description/) | [JavaScript](./solutions/javascript/MinimumNumberofArrowstoBurstBalloons/MinimumNumberofArrowstoBurstBalloons.js)|Medium|
-|460|[LFU Cache](https://leetcode.com/problems/lfu-cache/description/) | [JavaScript](./solutions/javascript/LFUCache/LFUCache.js)|Hard|
+|460|[LFU Cache](https://leetcode.com/problems/lfu-cache/description/) | [JavaScript](./solutions/javascript/LFUCache/LFUCache.js),[Java](./solutions/java/LFUCache/LFUCache.java)|Hard|[click](./thinking/LFUCache/readme.md)|
 |492|[Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/description/) | [JavaScript](./solutions/javascript/ConstructtheRectangle/ConstructtheRectangle.js)|Easy|
 |540|[Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/description/) | [JavaScript](./solutions/javascript/SingleElementinaSortedArray/SingleElementinaSortedArray.js)|Medium|
 |567|[Permutation in String](https://leetcode.com/problems/permutation-in-string/description/) | [JavaScript](./solutions/javascript/PermutationinString/PermutationinString.js)|Medium|
