@@ -141,4 +141,4 @@
 |620|[Not Boring Movies](https://leetcode.com/problems/not-boring-movies/description/) | [Mysql](./solutions/mysql/NotBoringMovies/NotBoringMovies.sql)|Easy|
 |648|[Replace Words](https://leetcode.com/problems/replace-words/description/) | [JavaScript](./solutions/javascript/ReplaceWords/ReplaceWords.js)|Medium|
 |717|[1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/description/) | [JavaScript](./solutions/javascript/1-bitand2-bitCharacters/1-bitand2-bitCharacters.js)|Easy|
-|739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/) | [JavaScript](./solutions/javascript/DailyTemperatures/DailyTemperatures.js)|Medium|
+|739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/) | [JavaScript](./solutions/javascript/DailyTemperatures/DailyTemperatures.js),[Java](./solutions/java/DailyTemperatures/DailyTemperatures.java)|Medium|[click](./thinking/DailyTemperatures/readme.md)|
