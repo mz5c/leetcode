@@ -136,7 +136,7 @@
 |492|[Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/description/) | [JavaScript](./solutions/javascript/ConstructtheRectangle/ConstructtheRectangle.js)|Easy|
 |540|[Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/description/) | [JavaScript](./solutions/javascript/SingleElementinaSortedArray/SingleElementinaSortedArray.js)|Medium|
 |567|[Permutation in String](https://leetcode.com/problems/permutation-in-string/description/) | [JavaScript](./solutions/javascript/PermutationinString/PermutationinString.js)|Medium|
-|593|[Valid Square](https://leetcode.com/problems/valid-square/description/) | [JavaScript](./solutions/javascript/ValidSquare/ValidSquare.js)|Medium|
+|593|[Valid Square](https://leetcode.com/problems/valid-square/description/) | [JavaScript](./solutions/javascript/ValidSquare/ValidSquare.js),[Java](./solutions/java/ValidSquare/ValidSquare.java)|Medium|[click](./thinking/ValidSquare/readme.md)
 |595|[Big Countries](https://leetcode.com/problems/big-countries/description/) | [Mysql](./solutions/mysql/BigCountries/BigCountries.sql)|Easy|[click](./thinking/BigCountries/readme.md)|
 |620|[Not Boring Movies](https://leetcode.com/problems/not-boring-movies/description/) | [Mysql](./solutions/mysql/NotBoringMovies/NotBoringMovies.sql)|Easy|[click](./thinking/NotBoringMovies/readme.md)|
 |648|[Replace Words](https://leetcode.com/problems/replace-words/description/) | [JavaScript](./solutions/javascript/ReplaceWords/ReplaceWords.js),[Java](./solutions/java/ReplaceWords/ReplaceWords.java)|Medium|[click](./thinking/ReplaceWords/readme.md)|
