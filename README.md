@@ -89,7 +89,7 @@
 |113|[Path Sum II](https://leetcode.com/problems/path-sum-ii/description/) | [JavaScript](./solutions/javascript/PathSumII/PathSumII.js)|Medium|
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/) | [JavaScript](./solutions/javascript/PascalsTriangle/PascalsTriangle.js)|Easy|
 |119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/description/) | [JavaScript](./solutions/javascript/PascalsTriangleII/PascalsTriangleII.js)|Easy|
-|120|[Triangle](https://leetcode.com/problems/triangle/description/) | [JavaScript](./solutions/javascript/Triangle/Triangle.js)|Medium|
+|120|[Triangle](https://leetcode.com/problems/triangle/description/) | [JavaScript](./solutions/javascript/Triangle/Triangle.js),[Java](./solutions/java/Triangle/Triangle.java)|Medium|[click](./thinking/Triangle/readme.md)|
 |135|[Candy](https://leetcode.com/problems/candy/description/) | [JavaScript](./solutions/javascript/Candy/Candy.js)|Hard|
 |146|[LRU Cache](https://leetcode.com/problems/lru-cache/description/) | [JavaScript](./solutions/javascript/LRUCache/LRUCache.js)|Hard|
 |149|[Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/description/) | [JavaScript](./solutions/javascript/MaxPointsonaLine/MaxPointsonaLine.js)|Hard|
