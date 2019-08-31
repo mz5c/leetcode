@@ -60,7 +60,7 @@
 |64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/) | [JavaScript](./solutions/javascript/MinimumPathSum/MinimumPathSum.js)|Medium|
 |65|[Valid Number](https://leetcode.com/problems/valid-number/description/) | [JavaScript](./solutions/javascript/ValidNumber/ValidNumber.js)|Hard|
 |66|[Plus One](https://leetcode.com/problems/plus-one/description/) | [JavaScript](./solutions/javascript/PlusOne/PlusOne.js),[Java](./solutions/java/PlusOne/PlusOne.java)|Easy|[click](./thinking/PlusOne/readme.md)
-|71|[Simplify Path](https://leetcode.com/problems/simplify-path/description/) | [JavaScript](./solutions/javascript/SimplifyPath/SimplifyPath.js)|Medium|
+|71|[Simplify Path](https://leetcode.com/problems/simplify-path/description/) | [JavaScript](./solutions/javascript/SimplifyPath/SimplifyPath.js),[Java](./solutions/java/SimplifyPath/SimplifyPath.java)|Medium|[click](./thinking/SimplifyPath/readme.md)|
 |73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/) | [JavaScript](./solutions/javascript/SetMatrixZeroes/SetMatrixZeroes.js)|Medium|
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) | [JavaScript](./solutions/javascript/Searcha2DMatrix/Searcha2DMatrix.js)|Medium|
 |76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/) | [JavaScript](./solutions/javascript/MinimumWindowSubstring/MinimumWindowSubstring.js)|Hard|
