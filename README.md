@@ -121,6 +121,7 @@
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) | [JavaScript](./solutions/javascript/ValidAnagram/ValidAnagram.js)|Easy|
 |274|[H-Index](https://leetcode.com/problems/h-index/description/) | [Javascript](./solutions/javascript/H-Index/H-Index.js)|Medium|
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/description/) | [Cpp](./solutions/cpp/FirstBadVersion/FirstBadVersion.cpp),[Java](./solutions/java/FirstBadVersion/FirstBadVersion.java)|Easy|[click](./thinking/FirstBadVersion/readme.md)|
+|292|[Nim Game](https://leetcode.com/problems/nim-game/) | [Java](./solutions/java/NimGame/NimGame.java)|Easy|[click](./thinking/NimGame/readme.md)|
 |326|[Power of Three](https://leetcode.com/problems/power-of-three/description/) | [Javascript](./solutions/javascript/PowerofThree/PowerofThree.js),[Java](./solutions/java/PowerofThree/PowerofThree.java)|Easy|[click](./thinking/PowerofThree/readme.md)
 |342|[Power of Four](https://leetcode.com/problems/power-of-four/description/) | [Javascript](./solutions/javascript/PowerofFour/PowerofFour.js),[Java](./solutions/java/PowerofFour/PowerofFour.java)|Easy|[click](./thinking/PowerofFour/readme.md)|
 |374|[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/description/) | [Cpp](./solutions/cpp/GuessNumberHigherorLower/GuessNumberHigherorLower.cpp),[Java](./solutions/java/GuessNumberHigherorLower/GuessNumberHigherorLower.java)|Easy|[click](./thinking/GuessNumberHigherorLower/readme.md)|
