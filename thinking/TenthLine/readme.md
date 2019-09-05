@@ -18,4 +18,6 @@ while read line; do
 done < file.txt
 ```
 或者  
-`sed -n '10p' file.txt`
+`sed -n '10p' file.txt`  
+或者  
+`awk 'NR == 10 {print $0}' file.txt`
