@@ -42,7 +42,7 @@
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) | [JavaScript](./solutions/javascript/ValidSudoku/ValidSudoku.js),[Java](./solutions/java/ValidSudoku/ValidSudoku.java)|Medium|[click](./thinking/ValidSudoku/readme.md)|
 |38|[Count and Say](https://leetcode.com/problems/count-and-say/description/) | [JavaScript](./solutions/javascript/CountandSay/CountandSay.js),[Java](./solutions/java/CountandSay/CountandSay.java)|Easy|[click](./thinking/CountandSay/readme.md)
 |41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/) | [JavaScript](./solutions/javascript/FirstMissingPositive/FirstMissingPositive.js),[Java](./solutions/java/FirstMissingPositive/FirstMissingPositive.java)|Hard|[click](./thinking/FirstMissingPositive/readme.md)|
-|42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) | [JavaScript](./solutions/javascript/TrappingRainWater/TrappingRainWater.js)|Hard|
+|42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) | [JavaScript](./solutions/javascript/TrappingRainWater/TrappingRainWater.js),[Java](./solutions/java/TrappingRainWater/TrappingRainWater.java)|Hard|[click](./thinking/TrappingRainWater/readme.md)|
 |45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/description/) | [JavaScript](./solutions/javascript/JumpGameII/JumpGameII.js)|Hard|
 |46|[Permutations](https://leetcode.com/problems/permutations/description/) | [JavaScript](./solutions/javascript/Permutations/Permutations.js)|Medium|
 |47|[Permutations II](https://leetcode.com/problems/permutations-ii/description/) | [JavaScript](./solutions/javascript/PermutationsII/PermutationsII.js)|Medium|
