@@ -51,7 +51,7 @@
 |51|[N-Queens](https://leetcode.com/problems/n-queens/description/) | [JavaScript](./solutions/javascript/N-Queens/N-Queens.js)|Hard|
 |52|[N-Queens II](https://leetcode.com/problems/n-queens-ii/description/) | [JavaScript](./solutions/javascript/N-QueensII/N-QueensII.js)|Hard|
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/) | [JavaScript](./solutions/javascript/SpiralMatrix/SpiralMatrix.js)|Medium|
-|55|[Jump Game](https://leetcode.com/problems/jump-game/description/) | [JavaScript](./solutions/javascript/JumpGame/JumpGame.js)|Medium|
+|55|[Jump Game](https://leetcode.com/problems/jump-game/description/) | [JavaScript](./solutions/javascript/JumpGame/JumpGame.js),[Java](./solutions/java/JumpGame/JumpGame.java)|Medium|[click](./thinking/JumpGame/readme.md)|
 |57|[Insert Interval](https://leetcode.com/problems/insert-interval/description/) | [JavaScript](./solutions/javascript/InsertInterval/InsertInterval.js)|Hard|
 |59|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/description/) | [JavaScript](./solutions/javascript/SpiralMatrixII/SpiralMatrixII.js)|Medium|
 |60|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence/description/) | [JavaScript](./solutions/javascript/PermutationSequence/PermutationSequence.js)|Medium|
