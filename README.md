@@ -72,7 +72,7 @@
 |82|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/) | [JavaScript](./solutions/javascript/RemoveDuplicatesfromSortedListII/RemoveDuplicatesfromSortedListII.js)|Medium|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/) | [JavaScript](./solutions/javascript/RemoveDuplicatesfromSortedList/RemoveDuplicatesfromSortedList.js),[Java](./solutions/java/RemoveDuplicatesfromSortedList/RemoveDuplicatesfromSortedList.java)|Easy|[click](./thinking/RemoveDuplicatesfromSortedList/readme.md)|
 |86|[Partition List](https://leetcode.com/problems/partition-list/description/) | [JavaScript](./solutions/javascript/PartitionList/PartitionList.js)|Medium|
-|88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | [JavaScript](./solutions/javascript/MergeSortedArray/MergeSortedArray.js)|Easy|
+|88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | [JavaScript](./solutions/javascript/MergeSortedArray/MergeSortedArray.js),[Java](./solutions/java/MergeSortedArray/MergeSortedArray.java)|Easy|[click](./thinking/MergeSortedArray/readme.md)|
 |89|[Gray Code](https://leetcode.com/problems/gray-code/description/) | [JavaScript](./solutions/javascript/GrayCode/GrayCode.js),[Java](./solutions/java/GrayCode/GrayCode.java)|Medium|[click](./thinking/GrayCode/readme.md)
 |90|[Subsets II](https://leetcode.com/problems/subsets-ii/description/) | [JavaScript](./solutions/javascript/SubsetsII/SubsetsII.js)|Medium|
 |91|[Decode Ways](https://leetcode.com/problems/decode-ways/description/) | [JavaScript](./solutions/javascript/DecodeWays/DecodeWays.js)|Medium|

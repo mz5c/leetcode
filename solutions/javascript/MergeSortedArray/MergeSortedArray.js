@@ -10,7 +10,7 @@ var merge = function(nums1, m, nums2, n) {
     for (var i = 0; i < n; i++) {
         tmp = nums2[i];
         j = m + i - 1;
-        while (tmp < nums1[j] && j >= 0) {
+        while (j >= 0 && tmp < nums1[j]) {
             nums1[j + 1] = nums1[j];
             j--;
         }
