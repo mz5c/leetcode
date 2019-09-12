@@ -3,14 +3,18 @@
  * @return {boolean}
  */
 var isHappy = function(n) {
-    var i = 10;
-    var a = n + '';
-    while (i > 0) {
-        a = a.split('').map((x)=>parseInt(x)*parseInt(x)).reduce((x,y)=>x+y) + '';
-        if (a == '1') {
-            return true;
+    var tmp = 0;
+    var sum = 0;
+    if (n == 1 || n == 7) {
+        return true;
+    } else if (n < 10) {
+        return false;
+    } else {
+        while (n != 0) {
+            tmp = n % 10;
+            sum += tmp * tmp;
+            n = parseInt(n / 10);
         }
-        i--;
     }
-    return false;
+    return isHappy(sum);
 };
