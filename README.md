@@ -120,7 +120,7 @@
 |231|[Power of Two](https://leetcode.com/problems/power-of-two/description/) | [JavaScript](./solutions/javascript/PowerofTwo/PowerofTwo.js),[Java](./solutions/java/PowerofTwo/PowerofTwo.java)|Easy|[click](./thinking/PowerofTwo/readme.md)|
 |240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/description/) | [JavaScript](./solutions/javascript/Searcha2DMatrixII/Searcha2DMatrixII.js)|Medium|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) | [JavaScript](./solutions/javascript/ValidAnagram/ValidAnagram.js)|Easy|
-|274|[H-Index](https://leetcode.com/problems/h-index/description/) | [Javascript](./solutions/javascript/H-Index/H-Index.js)|Medium|
+|274|[H-Index](https://leetcode.com/problems/h-index/description/) | [Javascript](./solutions/javascript/H-Index/H-Index.js),[Java](./solutions/java/H-Index/H-Index.java)|Medium|[click](./thinking/H-Index/readme.md)
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/description/) | [Cpp](./solutions/cpp/FirstBadVersion/FirstBadVersion.cpp),[Java](./solutions/java/FirstBadVersion/FirstBadVersion.java)|Easy|[click](./thinking/FirstBadVersion/readme.md)|
 |292|[Nim Game](https://leetcode.com/problems/nim-game/) | [Java](./solutions/java/NimGame/NimGame.java)|Easy|[click](./thinking/NimGame/readme.md)|
 |326|[Power of Three](https://leetcode.com/problems/power-of-three/description/) | [Javascript](./solutions/javascript/PowerofThree/PowerofThree.js),[Java](./solutions/java/PowerofThree/PowerofThree.java)|Easy|[click](./thinking/PowerofThree/readme.md)
