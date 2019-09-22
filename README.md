@@ -49,6 +49,7 @@
 |45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/description/) | [JavaScript](./solutions/javascript/JumpGameII/JumpGameII.js),[Java](./solutions/java/JumpGameII/JumpGameII.java)|Hard|[click](./thinking/JumpGameII/readme.md)|
 |46|[Permutations](https://leetcode.com/problems/permutations/description/) | [JavaScript](./solutions/javascript/Permutations/Permutations.js)|Medium|
 |47|[Permutations II](https://leetcode.com/problems/permutations-ii/description/) | [JavaScript](./solutions/javascript/PermutationsII/PermutationsII.js)|Medium|
+|48|[Rotate Image](https://leetcode.com/problems/rotate-image/) | [JavaScript](./solutions/javascript/RotateImage/RotateImage.js)|Medium|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) | [JavaScript](./solutions/javascript/GroupAnagrams/GroupAnagrams.js)|Medium|
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/description/) | [JavaScript](./solutions/javascript/Powxn/Powxn.js)|Medium|
 |51|[N-Queens](https://leetcode.com/problems/n-queens/description/) | [JavaScript](./solutions/javascript/N-Queens/N-Queens.js)|Hard|
