@@ -45,6 +45,7 @@
 |40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | [JavaScript](./solutions/javascript/CombinationSumII/CombinationSumII.js)|Medium| - |
 |41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/) | [JavaScript](./solutions/javascript/FirstMissingPositive/FirstMissingPositive.js),[Java](./solutions/java/FirstMissingPositive/FirstMissingPositive.java)|Hard|[click](./thinking/FirstMissingPositive/readme.md)|
 |42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) | [JavaScript](./solutions/javascript/TrappingRainWater/TrappingRainWater.js),[Java](./solutions/java/TrappingRainWater/TrappingRainWater.java)|Hard|[click](./thinking/TrappingRainWater/readme.md)|
+|43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/) | [JavaScript](./solutions/javascript/MultiplyStrings/MultiplyStrings.js)|Medium| - |
 |45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/description/) | [JavaScript](./solutions/javascript/JumpGameII/JumpGameII.js),[Java](./solutions/java/JumpGameII/JumpGameII.java)|Hard|[click](./thinking/JumpGameII/readme.md)|
 |46|[Permutations](https://leetcode.com/problems/permutations/description/) | [JavaScript](./solutions/javascript/Permutations/Permutations.js)|Medium|
 |47|[Permutations II](https://leetcode.com/problems/permutations-ii/description/) | [JavaScript](./solutions/javascript/PermutationsII/PermutationsII.js)|Medium|
