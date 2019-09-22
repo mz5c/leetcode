@@ -59,6 +59,7 @@
 |55|[Jump Game](https://leetcode.com/problems/jump-game/description/) | [JavaScript](./solutions/javascript/JumpGame/JumpGame.js),[Java](./solutions/java/JumpGame/JumpGame.java)|Medium|[click](./thinking/JumpGame/readme.md)|
 |56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [JavaScript](./solutions/javascript/MergeIntervals/MergeIntervals.js)|Medium| - |
 |57|[Insert Interval](https://leetcode.com/problems/insert-interval/description/) | [JavaScript](./solutions/javascript/InsertInterval/InsertInterval.js)|Hard|
+|58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [JavaScript](./solutions/javascript/LengthofLastWord/LengthofLastWord.js)|Easy| - |
 |59|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/description/) | [JavaScript](./solutions/javascript/SpiralMatrixII/SpiralMatrixII.js)|Medium|
 |60|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence/description/) | [JavaScript](./solutions/javascript/PermutationSequence/PermutationSequence.js)|Medium|
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/description/) | [JavaScript](./solutions/javascript/UniquePaths/UniquePaths.js)|Medium|
