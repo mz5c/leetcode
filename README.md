@@ -1,6 +1,6 @@
 # leetcode
 
-### solutions
+## solutions
 
 | # | Title | Solution | Difficulty | Thinking |
 |---| ----- | -------- | ---------- | -------- |
@@ -158,3 +158,8 @@
 |717|[1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/description/) | [JavaScript](./solutions/javascript/1-bitand2-bitCharacters/1-bitand2-bitCharacters.js),[Java](./solutions/java/1-bitand2-bitCharacters/1-bitand2-bitCharacters.java)|Easy|[click](./thinking/1-bitand2-bitCharacters/readme.md)|
 |739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/) | [JavaScript](./solutions/javascript/DailyTemperatures/DailyTemperatures.js),[Java](./solutions/java/DailyTemperatures/DailyTemperatures.java)|Medium|[click](./thinking/DailyTemperatures/readme.md)|
 |1175|[Prime Arrangements](https://leetcode.com/problems/prime-arrangements/) | [Java](./solutions/java/PrimeArrangements/PrimeArrangements.java)|Easy|[click](./thinking/PrimeArrangements/readme.md)|
+
+## contest
+| # | Title | Intro | Ranking |
+|---| ----- | ------ | ------- |
+| 1 | 2019 力扣杯全国秋季编程大赛 | [view](./contest/contest_season_2019-fall.md) | [click](./contest/contest_season_2019-fall_result.png) |
