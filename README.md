@@ -111,7 +111,7 @@
 |151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [JavaScript](./solutions/javascript/ReverseWordsinaString/ReverseWordsinaString.js)|Medium|
 |152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/) | [JavaScript](./solutions/javascript/MaximumProductSubarray/MaximumProductSubarray.js)|Medium|
 |153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [JavaScript](./solutions/javascript/FindMinimuminRotatedSortedArray/FindMinimuminRotatedSortedArray.js)|Medium|
-|153|[Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [JavaScript](./solutions/javascript/FindMinimuminRotatedSortedArrayII/FindMinimuminRotatedSortedArrayII.js)|Hard|
+|154|[Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [JavaScript](./solutions/javascript/FindMinimuminRotatedSortedArrayII/FindMinimuminRotatedSortedArrayII.js)|Hard|
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/description/) | [JavaScript](./solutions/javascript/FindPeakElement/FindPeakElement.js)|Medium|
 |164|[Maximum Gap](https://leetcode.com/problems/maximum-gap/description/) | [JavaScript](./solutions/javascript/MaximumGap/MaximumGap.js)|Hard|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/description/) | [JavaScript](./solutions/javascript/MajorityElement/MajorityElement.js)|Easy|
