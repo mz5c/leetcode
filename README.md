@@ -104,6 +104,7 @@
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [JavaScript](./solutions/javascript/ValidPalindrome/ValidPalindrome.js),[Java](./solutions/java/ValidPalindrome/ValidPalindrome.java)|Easy| [click](./thinking/ValidPalindrome/readme.md) |
 |135|[Candy](https://leetcode.com/problems/candy/description/) | [JavaScript](./solutions/javascript/Candy/Candy.js)|Hard|
 |136|[Single Number](https://leetcode.com/problems/single-number/) | [JavaScript](./solutions/javascript/SingleNumber/SingleNumber.js),[Java](./solutions/java/SingleNumber/SingleNumber.java)|Easy|[click](./thinking/SingleNumber/readme.md)|
+|137|[Single Number II](https://leetcode.com/problems/single-number-ii/) | [JavaScript](./solutions/javascript/SingleNumberII/SingleNumberII.js),[Java](./solutions/java/SingleNumberII/SingleNumberII.java)|Medium|[click](./thinking/SingleNumberII/readme.md)|
 |146|[LRU Cache](https://leetcode.com/problems/lru-cache/description/) | [JavaScript](./solutions/javascript/LRUCache/LRUCache.js)|Hard|
 |149|[Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/description/) | [JavaScript](./solutions/javascript/MaxPointsonaLine/MaxPointsonaLine.js)|Hard|
 |150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/) | [JavaScript](./solutions/javascript/EvaluateReversePolishNotation/EvaluateReversePolishNotation.js)|Medium|
