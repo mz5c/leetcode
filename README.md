@@ -119,6 +119,7 @@
 |174|[Dungeon Game](https://leetcode.com/problems/dungeon-game/description/) | [JavaScript](./solutions/javascript/DungeonGame/DungeonGame.js)|Hard|
 |175|[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | [Mysql](./solutions/mysql/CombineTwoTables/CombineTwoTables.sql)|Easy|[click](./thinking/CombineTwoTables/readme.md)|
 |177|[Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/) | [Mysql](./solutions/mysql/NthHighestSalary/NthHighestSalary.sql)|Medium|[click](./thinking/NthHighestSalary/readme.md)|
+|178|[Rank Scores](https://leetcode.com/problems/rank-scores/) | [Mysql](./solutions/mysql/RankScores/RankScores.sql)|Medium|[click](./thinking/RankScores/readme.md)|
 |182|[Duplicate Emails](https://leetcode.com/problems/duplicate-emails/description/) | [Mysql](./solutions/mysql/DuplicateEmails/DuplicateEmails.sql)|Easy|[click](./thinking/DuplicateEmails/README.md)|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/description/) | [JavaScript](./solutions/javascript/RotateArray/RotateArray.js)|Easy|
 |190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/description/) | [JavaScript](./solutions/javascript/ReverseBits/ReverseBits.js)|Easy|
