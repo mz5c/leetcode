@@ -125,6 +125,7 @@
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/description/) | [JavaScript](./solutions/javascript/RotateArray/RotateArray.js)|Easy|
 |190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/description/) | [JavaScript](./solutions/javascript/ReverseBits/ReverseBits.js)|Easy|
 |191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/) | [JavaScript](./solutions/javascript/Numberof1Bits/Numberof1Bits.js)|Easy|
+|192|[Word Frequency](https://leetcode.com/problems/word-frequency/) | [Shell](./solutions/shell/WordFrequency/WordFrequency.sh)|Medium|[click](./thinking/WordFrequency/readme.md)|
 |194|[Transpose File](https://leetcode.com/problems/transpose-file/description/) | [Shell](./solutions/shell/TransposeFile/TransposeFile.sh)|Medium|[click](./thinking/TransposeFile/readme.md)|
 |195|[Tenth Line](https://leetcode.com/problems/tenth-line/description/) | [Shell](./solutions/shell/TenthLine/TenthLine.sh)|Easy|[click](./thinking/TenthLine/readme.md)|
 |196|[Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/description/) | [Mysql](./solutions/mysql/DeleteDuplicateEmails/DeleteDuplicateEmails.sql)|Easy|[click](./thinking/DeleteDuplicateEmails/README.md)|
