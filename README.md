@@ -1,5 +1,6 @@
 # leetcode
-[Go](https://leetcode.com/)
+[leetcode](https://leetcode.com/)  
+[力扣](https://leetcode-cn.com/)
 
 ## solutions
 
